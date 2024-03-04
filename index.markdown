@@ -9,5 +9,7 @@ layout: home
 
 ### ChatBrain
 
+챗브레인은 좋은 솔루션입니다.
+
 - [문서](https://)
 - [LICENSE](https://)
