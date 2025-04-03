@@ -1,4 +1,4 @@
-### **제품 규격서**
+### **ShadowMR**
 
 **제품명: ChatBrain Shadow MR**
 
