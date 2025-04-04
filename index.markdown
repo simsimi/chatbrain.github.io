@@ -1,4 +1,4 @@
-# ChatBrain (챗브레인): 조직/기관을 위한 생성형 AI 업무 솔루션 by SimSimi
+# ChatBrain
 <img src="/images/챗브레인_BI_logo.png"  width="200">
 
 **The AI Chat Expert Company - SimSimi**
