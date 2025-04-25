@@ -3,7 +3,7 @@
 
 AI 챗봇 전문기업 심심이㈜가 제공하는 **기업/기관/조직을 위한 쉽고 빠른 생성형 AI 업무 서비스**, 챗브레인(Chat Brain)을 만나보세요. 반복적인 업무 부담을 줄이고, 조직의 생산성을 혁신적으로 개선합니다.
 
-![챗브레인 예시(고객사 ERP 통합 사례)](https://github.com/simsimi/chatbrain.github.io/blob/main/images/chatbrain.kr-sample-ERP-copilot-analytics.png)
+![챗브레인 예시(고객사 ERP 통합 사례)](https://raw.githubusercontent.com/simsimi/chatbrain.github.io/refs/heads/main/images/chatbrain.kr-sample-ERP-copilot-analytics.png)
 
 <br><br><br><br>
 
