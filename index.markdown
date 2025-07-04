@@ -191,4 +191,4 @@ AI 챗봇 전문기업 심심이㈜가 제공하는 **기업/기관/조직을 �
     Email : support@simsimi.com
     한국어 홈페이지 : https://simsimi.kr
 
-Copyright © 2024 by SimSimi inc. all rights reserved
+Copyright © 2025 by SimSimi inc. all rights reserved
