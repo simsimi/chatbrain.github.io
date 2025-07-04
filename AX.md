@@ -13,3 +13,19 @@
 
 5. E 기업은 특수 자재 제조 수출 기업으로 steel 판재 간 PE 사입 압축하여 생산 후 냉각, 재단, 절곡하여 납품하고 있음. 가공 중, 가공 후 불량 판정을 육안에 의존하고 있는데 작업자 숙련도, 피로도, 날씨, 주야간 조명 등 여러 환경에 따라 검수 정확도 기복이 있어 Vision AI를 활용한 불량 검수 자동화 솔루션을 도입하고자 함
 
+
+**심심이주식회사**  
+<img src="/images/logo.jpg"  width="100">
+
+    사업자등록번호 : 211-87-29442(대표자 : 최정회)  
+    주소 : 06194 서울 강남구 테헤란로78길 14-14(대치동 891-36) 제나빌딩 6층  
+    전화 : 02-562-5332 (업무일 오전 11:00 ~ 16:00)  
+    통신판매업신고: 제 2009-서울강남-00350 호  
+
+    Business License  No. : 211-87-29442  
+    Address : SimSimi Inc., 891-36, Daechi, Gangnam, Seoul, S. Korea 06194  
+    Phone : +82-2-562-5332 (Available in Korean Business hour)  
+    Email : support@simsimi.com
+    한국어 홈페이지 : https://simsimi.kr
+
+Copyright © 2024 by SimSimi inc. all rights reserved
